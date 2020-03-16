@@ -1,4 +1,4 @@
-# Sys-Prog-Lab_3
+# Sys_Prog_Lab-3
 
 * Course:  System Programming Labratory, #202-1-2071.
 * Submitted: March, 2019.
